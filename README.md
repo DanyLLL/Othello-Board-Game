@@ -1,2 +1,2 @@
-# Othello-Board-Game
-A Tkinter graphic application of the famous board game Othello, developed in Python.
+## ⚫⚪ Othello (Reversi) - Developed in Python
+A Python, Tkinter graphic application to play Othello with all the game's rules included.
