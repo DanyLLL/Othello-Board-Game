@@ -3,6 +3,9 @@ A Python, Tkinter graphic application to play Othello with all the game's rules 
 
 <img width="841" height="572" alt="image" src="https://github.com/user-attachments/assets/99053660-f320-4fb3-9f53-0130ece85976" />
 
+  
+<img width="1100" height="1100" alt="Collage2" src="https://github.com/user-attachments/assets/e9c54fb4-4200-46c5-a953-dffd1691023f" />
+
 
 ## 📚 What I learned
 - **Game Logic & Spatial Algorithms** : Learned to implement the Othello mechanics by developing an algorithm that scans a 2D matrix in 8 vector directions to validate moves, detect out of range pieces, and flip the opponent's pieces.  
