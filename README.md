@@ -1,6 +1,9 @@
 ## ⚫⚪ Othello (Reversi) - Developed in Python
 A Python, Tkinter graphic application to play Othello with all the game's rules included.
 
+<img width="841" height="572" alt="image" src="https://github.com/user-attachments/assets/99053660-f320-4fb3-9f53-0130ece85976" />
+
+
 ## 📚 What I learned
 - **Game Logic & Spatial Algorithms** : Learned to implement the Othello mechanics by developing an algorithm that scans a 2D matrix in 8 vector directions to validate moves, detect out of range pieces, and flip the opponent's pieces.  
 - **Object-Oriented Programming (OOP)** : Structured the project using custom classes (plateau, jeton) to cleanly manage the overall game state, score updates, and interactions between the board and the individual tokens.
